@@ -22,3 +22,19 @@ Eli5
 
 Run the file with extension '.ipynb' in the jupyter notebook.
 
+## Financial Benefit Of The Project
+
+The model is able to predict whether that the person had bought the product or not with a accuracy of 90% which is good.\
+
+From this model we can understand various factor which will help the company:\
+
+1-> Which kind of person should be pinch more.\
+2-> In which month and week of the day the person buy the product so what was the activity of the office and its employee.\
+3-> What is background of the most converted people.\
+4-> On which month least person was converted and at that time what was the activity in the office.\
+5-> Machine can learn the things company analyst had learned in years in just a snap.
+
+Overall one will able to figure the type of customer to pinch so that one can convert more customer in less amount of time.Project like this will lead the company revenue to new heights.\
+Projects on machine learning is the revolution of this century.
+
+
